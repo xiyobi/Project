@@ -1,61 +1,80 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Shehroz</title>
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Project</title>
     <link rel="stylesheet" href="styl.css">
 </head>
-
 <body>
-    <div id="header">
-        <div class="container">
-            <h1>Website</h1>
-        </div>
-    </div>
-    <div id="navbar">
-        <div class="container">
+    <div class="container">
+        <div class="left">
             <ul>
-                <li><a href="#">HOME</a></li>
-                <li><a href="#">ABOUT</a></li>
-                <li><a href="#">SERVICES</a></li>
-                <li><a href="#">CONTACS</a></li>
+                <li>
+                    <p>Submit</p>
+                    <a href="#">Assosuy</a><br>
+                    <a href="#">Assosuy</a><br>
+                    <a href="#">Assosuy</a><br>
+                </li>
+            </ul><ul>
+                <li>
+                    <p>Submit</p>
+                    <a href="#">Assosuy</a><br>
+                    <a href="#">Assosuy</a><br>
+                    <a href="#">Assosuy</a><br>
+                </li>
+            </ul><ul>
+                <li>
+                    <p>Submit</p>
+                    <a href="#">Assosuy</a><br>
+                    <a href="#">Assosuy</a><br>
+                    <a href="#">Assosuy</a><br>
+                </li>
             </ul>
         </div>
-    </div>
-    <div id="showcase">
-        <div class="container">
-            <h1>Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-                Odit esse aliquid quos nam maxime sequi possimus
-                unde eaque fuga libero?
-            </h1>
-        </div>
-    </div>
-    <div id="main">
-        <div class="container">
-            <div class="content">
-                <h3>Welcom</h3>
-                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aperiam
-                    nulla ea id impedit totam commodirepellendus veniam dicta nesciunt ducimus earum,
-                    vel molestias nisi voluptatum tenetur blanditiis nostrum incidunt voluptas?
-                    Iure facilis labore accusantium nemo repellendus veniam,
-                    error minima praesentium.</p>
-            </div>
-            <div class="sidebar">
-                <p>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime, inventore.
-                </p>
+        <div class="right">
+            <h1>HELLO WORD!</h1>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam aut ea, eligendi eveniet
+                exercitationem facere facilis, libero mollitia non nulla quod similique sint sunt tempore
+                voluptas! Ab animi architecto assumenda autem debitis delectus deserunt distinctio dolor
+                dolorem doloremque ea et explicabo facilis fugiat id ipsum nam, necessitatibus obcaecati officiis
+                omnis optio possimus, praesentium provident
+                quaerat quam quis quod quos recusandae soluta temporibus veniam vero voluptas voluptates?
+                Molestias perspiciatis temporibus vitae?Lorem ipsum dolor sit amet, consectetur adipisicing
+                elit. Dolore doloremque dolores ducimus natus, repellendus
+                voluptate! Architecto consequatur cumque debitis distinctio dolor dolorum, labore, minima, minus
+                omnis quaerat quia ratione voluptatibus.</p>
+            <div class="btn-group " role="group" aria-label="Basic example">
+                <button type="button" class="btn btn-success">Middle</button>
             </div>
         </div>
     </div>
-    </div>
-    <div class = "clr">
-        
-    </div>
-    <div id = "footer">
-        <p>GITHUB user Xiyobi</p>
-    </div>
-</body>
+        <div class="button">
+                <div class="btn1">
+                    <h1>Networking</h1>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum, rerum!</p>
+                </div>
 
+                <div class="btn2">
+                    <h1>Networking</h1>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Officiis, quis?</p></div>
+                <div class="btn3">
+                    <h1>Networking</h1>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores, laudantium.</p></div>
+        </div><div class="button">
+                <div class="btn1">
+                    <h1>Networking</h1>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum, rerum!</p>
+                </div>
+
+                <div class="btn2">
+                    <h1>Networking</h1>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Officiis, quis?</p></div>
+                <div class="btn3">
+                    <h1>Networking</h1>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores, laudantium.</p></div>
+        </div>
+</body>
 </html>
